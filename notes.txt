@@ -1,0 +1,32 @@
+structure c language 
+
+upper and lower case are matter 
+
+#include <stdio.h>
+
+int main() 
+{  ##starting point 
+  
+  ##this is where you will type code for your program ##the body
+  return 0;
+
+}  ##ending point
+
+all the statements ending with ; (semi colon)
+your code need to be readable for a better experience
+when you started to write the code, write the variable with a meaningful names
+
+void == no data
+
+comment in c language 
+  in order to document a program and improve its readability
+  its ignored by the compiler
+  it is important for a re learning purposes
+  adding comment while you writing codes 
+  
+
+two way to add comments into a c program
+// single line comment 
+/* multi line comment */
+
+dont need to use comment at every code that you type

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1571531668 source:c:\users\gl503ge\desktop\c dummies #1\#50\stack first in first out.c
+	<stdio.h>
+	<stdlib.h>
+

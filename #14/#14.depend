@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1567601899 source:c:\users\gl503ge\desktop\c dummies #1\#14\realchallenge.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

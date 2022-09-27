@@ -1,0 +1,46 @@
+the preprocessor
+identified by the presence of a pound sign (#)
+
+the include statement # is a preprocessor directive
+
+#include <stdio.h> one of many preprocessor directive examples
+the pprogram wont work without it
+
+standard output and input stdio.h
+
+stdio.h is a header files (.h) ---> it is a standard c library header (iniput and output)
+header files define information about some of the functions that
+are provided by that file 
+
+it is also case sensitive
+
+#include <stdio.h>
+#include "createdbyyou.h"
+
+data types in c
+
+the memory data tyoes are depend on your os and hardware that you used  
+
+int      can be minus positive and zero, 
+         you can assign in a hecadecimal number(base16)  
+float    
+double values:::64bits:::8byte
+char
+_Bool   can be used to store just the values 0 or 1 (False or True)
+
+double >>> float
+
+short long unsigned keywords to modify basic integer type
+
+long int money = 100004304304L;
+unsigned int counter; only have positives values
+
+
+enums a data types that allows a programmer to define and
+specify the valid values that could be stored into that variables
+
+ex::
+  enum primarycolor {red, yellow, blue};
+  enum primarycolor mycolor, yourcolor;
+  mycolor = red;
+

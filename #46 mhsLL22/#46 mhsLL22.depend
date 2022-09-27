@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1570267193 source:c:\users\gl503ge\desktop\c dummies #1\#46 mhsll22\ll mhs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

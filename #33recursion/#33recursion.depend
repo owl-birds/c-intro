@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1568307163 source:c:\users\gl503ge\desktop\c dummies #1\#33recursion\###.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

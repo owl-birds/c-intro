@@ -1,0 +1,14 @@
+:::Write a program in C to count the digits of a given number using recursion.
+:::Write a program in C to find the sum of digits of a number using recursion.
+:::Write a program in C to find GCD of two numbers using recursion.
+:::Write a program in C to get the largest element of an array using recursion.
+:::Write a program in C to reverse a string using recursion.
+:::Write a program in C to convert a decimal number to binary using recursion.
+:::Write a program in C to check a number is a prime number or not using recursion.
+:::Write a program in C to find the LCM of two numbers using recursion.
+:::Write a program in C to print even or odd numbers in given range using recursion.
+:::Write a program in C to multiply two matrix using recursion.
+:::Write a program in C to Check whether a given String is Palindrome or not.
+:::Write a program in C to calculate the power of any number using recursion.
+:::Write a program in C to copy One string to another using recursion. 
+:::

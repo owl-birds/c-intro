@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571221980 source:c:\users\gl503ge\desktop\c dummies #1\#48\ccc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

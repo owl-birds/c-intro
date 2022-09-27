@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1568038445 source:c:\users\gl503ge\desktop\c dummies #1\#25\tic tac toe.c
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1569073724 source:c:\users\gl503ge\desktop\c dummies #1\#41 linked list\linked list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

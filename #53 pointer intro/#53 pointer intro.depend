@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1571707036 source:c:\users\gl503ge\desktop\c dummies #1\#53 pointer intro\pointer.c
+	<stdio.h>
+	<stdlib.h>
+

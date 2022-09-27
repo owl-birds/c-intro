@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1567639649 source:c:\users\gl503ge\desktop\c dummies #1\#16\array.c
+	<stdio.h>
+	<stdlib.h>
+

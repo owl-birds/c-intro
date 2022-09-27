@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1568675786 source:c:\users\gl503ge\desktop\c dummies #1\#38\stringgggmanipulation.c
+	<stdio.h>
+	<string.h>
+

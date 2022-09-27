@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572093502 source:c:\users\gl503ge\desktop\c dummies #1\#69 nani\agent 47.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

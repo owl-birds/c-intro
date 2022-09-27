@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1570864890 source:c:\users\gl503ge\desktop\c dummies #1\#47 debugging intro\1111.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
